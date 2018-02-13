@@ -1,0 +1,5 @@
+.top-image {
+   min-height: 30vh;
+   background-image: url(../../assets/img/tomato.jpg);
+   background-size: cover;
+}
